@@ -1,0 +1,79 @@
+Datsun 280-ZX,Japan,132.0
+Toyota Mark II,Japan,122.0
+Datsun 810 Maxima,Japan,120.0
+Toyota Cressida,Japan,116.0
+Mazda RX-4,Japan,110.0
+Toyota Mark II,Japan,108.0
+Mazda RX-7 GS,Japan,100.0
+Datsun 200SX,Japan,100.0
+Mazda RX2 Coupe,Japan,97.0
+Toyota Corolla Mark II (sw),Japan,97.0
+Honda Civic,Japan,97.0
+Datsun 710,Japan,97.0
+Datsun 810,Japan,97.0
+Datsun 510,Japan,97.0
+Datsun 200-SX,Japan,97.0
+Toyota Corolla,Japan,96.0
+Toyota Celica GT,Japan,96.0
+Toyota Corolla Mark ii,Japan,95.0
+Toyota Corolla,Japan,95.0
+Toyota Corolla Hardtop,Japan,95.0
+Toyota Corolla,Japan,95.0
+Toyota Celica GT Liftback,Japan,95.0
+Datsun 610,Japan,94.0
+Subaru,Japan,93.0
+Datsun 510 (sw),Japan,92.0
+Datsun 510 Hatchback,Japan,92.0
+Mazda RX3,Japan,90.0
+Toyota Corolla Liftback,Japan,90.0
+Datsun PL510,Japan,88.0
+Datsun PL510,Japan,88.0
+Toyota Corolla 1600 (sw),Japan,88.0
+Toyota Camry,Japan,88.0
+Nissan Stanza XE,Japan,88.0
+Toyota Corolla,Japan,75.0
+Toyota Corolla,Japan,75.0
+Toyota Corolla Liftback,Japan,75.0
+Mazda 626,Japan,75.0
+Toyota Corolla,Japan,75.0
+Honda Prelude,Japan,75.0
+Toyota Corolla,Japan,75.0
+Honda Accord,Japan,75.0
+Mazda 626,Japan,74.0
+Honda Accord,Japan,72.0
+Datsun B-210,Japan,70.0
+Datsun F-10 Hatchback,Japan,70.0
+Datsun B210 GX,Japan,70.0
+Toyota Corolla,Japan,70.0
+Datsun 1200,Japan,69.0
+Honda Accord CVCC,Japan,68.0
+Honda Accord LX,Japan,68.0
+Mazda GLC 4,Japan,68.0
+Mazda GLC Custom l,Japan,68.0
+Mazda GLC Custom,Japan,68.0
+Datsun B210,Japan,67.0
+Subaru DL,Japan,67.0
+Honda Civic 1500 gl,Japan,67.0
+Subaru DL,Japan,67.0
+Subaru,Japan,67.0
+Honda Civic,Japan,67.0
+Honda Civic (auto),Japan,67.0
+Datsun 310 GX,Japan,67.0
+Toyota Corolla 1200,Japan,65.0
+Toyota Corolla 1200,Japan,65.0
+Mazda GLC Deluxe,Japan,65.0
+Datsun 210,Japan,65.0
+Datsun 310,Japan,65.0
+Mazda GLC,Japan,65.0
+Datsun 210,Japan,65.0
+Datsun 210 MPG,Japan,65.0
+Toyota Tercel,Japan,62.0
+Datsun 710,Japan,61.0
+Honda Civic CVCC,Japan,60.0
+Toyota Corolla Tercel,Japan,60.0
+Honda Civic 1300,Japan,60.0
+Toyota Starlet,Japan,58.0
+Honda Civic CVCC,Japan,53.0
+Honda Civic,Japan,53.0
+Toyota Corolla,Japan,52.0
+Mazda GLC Deluxe,Japan,52.0

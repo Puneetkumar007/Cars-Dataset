@@ -1,0 +1,73 @@
+Peugeot 604sl,Europe,133.0
+Volvo 264gl,Europe,125.0
+Mercedes-Benz 280s,Europe,120.0
+Citroen DS-21 Pallas,Europe,115.0
+Saab 99LE,Europe,115.0
+Saab 99gle,Europe,115.0
+BMW 2002,Europe,113.0
+Volvo 145e (sw),Europe,112.0
+Volvo 144ea,Europe,112.0
+Saab 99le,Europe,110.0
+BMW 320i,Europe,110.0
+Saab 900s,Europe,110.0
+Audi 5000,Europe,103.0
+Volvo 245,Europe,102.0
+Volvo 244DL,Europe,98.0
+Saab 99e,Europe,95.0
+Audi 100LS,Europe,95.0
+Audi 100LS,Europe,91.0
+Audi 100 LS,Europe,90.0
+Opel 1900,Europe,90.0
+Fiat 124 Sport Coupe,Europe,90.0
+Peugeot 504,Europe,88.0
+Peugeot 504,Europe,88.0
+Triumph TR7 Coupe,Europe,88.0
+Peugeot 504,Europe,87.0
+Peugeot 504 (sw),Europe,87.0
+Fiat 131,Europe,86.0
+Audi Fox,Europe,83.0
+Renault 12tl,Europe,83.0
+Opel 1900,Europe,81.0
+Peugeot 505s Turbo Diesel,Europe,80.0
+Opel Manta,Europe,78.0
+Volkswagen Rabbit Custom,Europe,78.0
+Volkswagen Dasher,Europe,78.0
+Audi 4000,Europe,78.0
+Mercedes Benz 300d,Europe,77.0
+Fiat 124B,Europe,76.0
+Volkswagen 411 (sw),Europe,76.0
+Volkswagen Rabbit,Europe,76.0
+Volvo Diesel,Europe,76.0
+Opel Manta,Europe,75.0
+Fiat 128,Europe,75.0
+Fiat 124 TC,Europe,75.0
+Volkswagen Jetta,Europe,74.0
+Volkswagen Rabbit l,Europe,74.0
+Volkswagen Dasher,Europe,71.0
+Volkswagen Rabbit,Europe,71.0
+Volkswagen Scirocco,Europe,71.0
+Volkswagen Rabbit Custom,Europe,71.0
+Peugeot 504,Europe,71.0
+Peugeot 304,Europe,70.0
+Volkswagen Rabbit,Europe,70.0
+Volkswagen Rabbit,Europe,70.0
+Renault 12 (sw),Europe,69.0
+Fiat Strada Custom,Europe,69.0
+Volkswagen Dasher,Europe,67.0
+Fiat x1.9,Europe,67.0
+Audi 5000s (diesel),Europe,67.0
+Mercedes-Benz 240d,Europe,67.0
+Volkswagen Rabbit,Europe,62.0
+Volkswagen Model 111,Europe,60.0
+Renault 5 GTL,Europe,58.0
+Volkswagen Type 3,Europe,54.0
+Volkswagen Pickup,Europe,52.0
+Fiat 128,Europe,49.0
+Volkswagen Super Beetle 117,Europe,48.0
+Volkswagen Rabbit Custom Diesel,Europe,48.0
+Volkswagen Rabbit C (Diesel),Europe,48.0
+Volkswagen Dasher (diesel),Europe,48.0
+Volkswagen 1131 Deluxe Sedan,Europe,46.0
+Volkswagen Super Beetle,Europe,46.0
+Renault Lecar Deluxe,Europe,0.0
+Renault 18i,Europe,0.0
